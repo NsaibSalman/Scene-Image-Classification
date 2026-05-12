@@ -117,12 +117,10 @@ scene-image-classification/
 │
 ├── README.md
 ├── scene-image-classification-project.ipynb
-├── models/
-│   └── best_model.keras
 ├── results/
-│   ├── confusion_matrix.png
-│   ├── training_curve.png
-│   └── sample_predictions.png
+│   ├── Sample Inference.png
+│   ├── Val Accuracy Plot.png
+│   └── Val Loss Plot.png
 └── requirements.txt
 ```
 
