@@ -152,6 +152,9 @@ jupyter notebook
 ---
 
 # Results
+<img width="893" height="143" alt="image" src="https://github.com/user-attachments/assets/88321f8e-a876-4a17-b346-582e920134bf" />
+
+<img width="1415" height="648" alt="image" src="https://github.com/user-attachments/assets/c997b977-5eee-40cf-b9cb-a89d8097a0f2" />
 
 The models successfully learned to classify scene images across six categories.
 
